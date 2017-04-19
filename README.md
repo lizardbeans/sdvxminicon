@@ -10,8 +10,6 @@ Tested only with 24ppr encoders.
 
 ## Part List
 
-This is everything you need:
-
 - 5mm laser cut clear acrylic $10-15
 - 6pcs. 50x30mm chinese beatmania buttons $15 (led and switch included)
 - 1pc. 30x30mm start buton $3 (led and switch included)
