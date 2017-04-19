@@ -50,6 +50,3 @@ Any questions, troubleshooting or tips? Try my Discord server:
 
 https://discord.gg/fknwz8s
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9P4BUwEMpI" frameborder="0" allowfullscreen></iframe>
-
