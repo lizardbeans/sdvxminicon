@@ -1,7 +1,8 @@
 # sdvxminicon
-Code for Leonardo PCB for a SDVX Minicon seen here http://imgur.com/a/BgS4V
+**Instructions here: http://consandstuff.pancakeapps.com/SOUNDVOLTEX/minicon**
 
-Instructions here: http://consandstuff.pancakeapps.com/SOUNDVOLTEX/minicon
+
+Minicon Gallery http://imgur.com/a/BgS4V
 
 The code is a modified version of this github repository:https://github.com/4yn/iivx
 
