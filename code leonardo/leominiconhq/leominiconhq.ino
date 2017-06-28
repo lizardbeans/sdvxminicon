@@ -22,7 +22,7 @@ iivxReport_t report;
 
 int tmp;
 uint8_t buttonCount = 7;
-uint8_t lightMode = 1;
+uint8_t lightMode = 0;
 // 0 = reactive lighting, 1 = HID lighting
 uint8_t ledPins[] = {6,7,8,9,10,11,12};
 uint8_t buttonPins[] = {13,18,19,20,21,22,23};
@@ -33,10 +33,7 @@ uint8_t sysInputPins[] = {13,18,19,20};
 int32_t encL=0, encR=0;
 /* current pin layout
  *  pins 6 to 12 = LED 1 to 7
- *    connect pin to + termnial of LED
- *    connect ground to resistor and then - terminal of LED
  *  pins 13, A0 to A5 = Button input 1 to 7
- *    connect button pin to ground to trigger button press
  *  pins 5 = system pin
  *    connect system pin to ground with a small button
  *      press together with other buttons to change lighting scheme
