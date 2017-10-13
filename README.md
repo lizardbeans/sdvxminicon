@@ -1,5 +1,5 @@
 # sdvxminicon
-**Instructions here: http://consandstuff.pancakeapps.com/SOUNDVOLTEX/minicon**
+**Instructions here: http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-minicon/**
 
 
 Minicon Gallery http://imgur.com/a/BgS4V
